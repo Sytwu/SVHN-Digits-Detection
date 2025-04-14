@@ -29,6 +29,6 @@ My model weights can be downloaded [Here](https://drive.google.com/drive/folders
 
 ## Performance snapshot
 A shapshot of the leaderboard
-![image](https://github.com/user-attachments/assets/4d268652-fa44-449b-be84-8997b2bff74b)
+![image](https://github.com/user-attachments/assets/a655ff6e-f929-4a58-8d73-126824be431b)
 \
-Last Update: 2025/04/12 8:10 p.m. (GMT+8)
+Last Update: 2025/04/15 12:25 a.m. (GMT+8)
